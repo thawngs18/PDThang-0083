@@ -1,0 +1,6 @@
+[2025-09-15 19:10:40.097978] Sensitive info found in pre-commit-hook-test/bad.py: pattern password\s*=\s*['\"][^'\"]{4,}['\"]
+[2025-09-15 19:10:40.098598] File pre-commit-hook-test/bad.py is world-writable!
+[2025-09-15 19:12:52.819225] File pre-commit-hook-test/bad.py is world-writable!
+[2025-09-15 19:17:47.567874] File pre-commit-hook-test/bad.py is world-writable!
+[2025-09-15 19:19:39.378371] File pre-commit-hook-test/bad.py is world-writable!
+[2025-09-15 19:36:22.347687] Sensitive info found in pre-commit-hook-test/bad.py: pattern password\s*=\s*['\"][^'\"]{4,}['\"]
