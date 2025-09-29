@@ -1,3 +1,10 @@
 {
-  "cSpell.words": ["AESGCM", "jsonify", "securecrypto", "urandom"]
+  "cSpell.words": [
+    "AESGCM",
+    "connstream",
+    "jsonify",
+    "keyid",
+    "securecrypto",
+    "urandom"
+  ]
 }
