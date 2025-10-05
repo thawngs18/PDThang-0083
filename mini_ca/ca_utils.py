@@ -128,3 +128,5 @@ def verify_certificate_chain(cert_to_verify, chain):
         print("Verification failed:", e)
         return False
 
+
+
