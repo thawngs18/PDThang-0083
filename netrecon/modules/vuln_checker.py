@@ -13,3 +13,4 @@ def check_vulns(ports):
             result[port] = VULN_PORTS[port]
     return result
 
+
